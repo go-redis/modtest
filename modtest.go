@@ -3,5 +3,5 @@ package modtest
 import "fmt"
 
 func Test() {
-	fmt.Println("github.com/vmihailenco/modtest/v2")
+	fmt.Println("github.com/go-redis/modtest/v2")
 }
